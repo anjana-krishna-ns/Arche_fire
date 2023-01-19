@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759945268441",
+    "project_id": "arche-6c3bd",
+    "storage_bucket": "arche-6c3bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759945268441:android:f7009726dd8569dabbc2c8",
+        "android_client_info": {
+          "package_name": "com.fire.arche_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759945268441-grv6607kfg5q7qruchfv91ekkm31im58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQKfR1jvzHx6XtZ-cpLN6uDZl1XvYrOgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759945268441-grv6607kfg5q7qruchfv91ekkm31im58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
